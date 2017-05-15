@@ -1,3 +1,3 @@
 # Franz Plugins
 
-[Franz](http://meetfranz.com) のプラグインです。
+[Franz](http://meetfranz.com) integrations.
