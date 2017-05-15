@@ -1,0 +1,23 @@
+{
+  "name": "backlog",
+  "version": "1.0.0",
+  "description": "backlog",
+  "main": "index.js",
+  "author": "Kenichi Okamura <okamura.kenichi@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamID}.backlog.jp/",
+    "serviceName": "Backlog",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

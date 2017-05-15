@@ -1,0 +1,23 @@
+{
+  "name": "toodledo",
+  "version": "1.0.0",
+  "description": "toodledo",
+  "main": "index.js",
+  "author": "Kenichi Okamura <okamura.kenichi@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.toodledo.com/signin.php",
+    "serviceName": "toodledo",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
