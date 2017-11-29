@@ -1,6 +1,7 @@
 {
+  "id": "toodledo",
   "name": "toodledo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "toodledo",
   "main": "index.js",
   "author": "Kenichi Okamura <okamura.kenichi@gmail.com>",

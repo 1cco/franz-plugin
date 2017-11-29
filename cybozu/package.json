@@ -1,23 +1,17 @@
 {
+  "id": "cybozu",
   "name": "cybozu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cybozu",
   "main": "index.js",
   "author": "Kenichi Okamura <okamura.kenichi@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamID}.cybozu.com/",
-    "serviceName": "cybozu",
-    "message": "",
-    "popup": [],
+    "serviceURL": "https://{teamId}.cybozu.com/",
     "hasNotificationSound": false,
     "hasIndirectMessages": false,
-    "hasTeamID": true,
-    "customURL": false,
-    "hostedOnly": false,
-    "webviewOptions": {
-      "disablewebsecurity": ""
-    },
-    "openDevTools": false
+    "hasTeamId": true,
+    "urlInputSuffix": ".cybozu.com",
+    "openDevTools": true
   }
 }
